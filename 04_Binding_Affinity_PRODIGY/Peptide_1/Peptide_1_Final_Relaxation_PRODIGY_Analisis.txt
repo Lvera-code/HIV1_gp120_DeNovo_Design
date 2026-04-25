@@ -1,0 +1,20 @@
+=== REPORTE DE AFINIDAD DE UNIÓN: Peptido_1_Relajado_Final ===
+
+[+] Executing 1 task(s) in total
+##########################################
+[+] Processing structure Peptido_1_Relajado_Final_model0
+[+] No. of intermolecular contacts: 47
+[+] No. of Charged-Charged contacts: 4.0
+[+] No. of Charged-Polar contacts: 2.0
+[+] No. of Charged-Apolar contacts: 8.0
+[+] No. of Polar-Polar contacts: 0.0
+[+] No. of Apolar-Polar contacts: 5.0
+[+] No. of Apolar-Apolar contacts: 28.0
+[+] No. of hydrophiLic-hydrophiLic contacts: 10.0
+[+] No. of hydrophoBic-hydrophiLic contacts: 16.0
+[+] No. of hydrophoBic-hydrophoBic contacts: 21.0
+[+] Percentage of Polar NIS residues: 36.96
+[+] Percentage of Apolar NIS residues: 38.41
+[+] Percentage of Charged NIS residues: 24.64
+[++] predicted binding affinity (kcal.mol-1):     -7.7
+[++] predicted dissociation constant (M) at 37.0˚C:  3.9e-06

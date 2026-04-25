@@ -1,0 +1,20 @@
+=== REPORTE DE AFINIDAD DE UNIÓN: Peptido_7_Relajado_Final ===
+
+[+] Executing 1 task(s) in total
+##########################################
+[+] Processing structure Peptido_7_Relajado_Final_model0
+[+] No. of intermolecular contacts: 51
+[+] No. of Charged-Charged contacts: 7.0
+[+] No. of Charged-Polar contacts: 2.0
+[+] No. of Charged-Apolar contacts: 9.0
+[+] No. of Polar-Polar contacts: 0.0
+[+] No. of Apolar-Polar contacts: 7.0
+[+] No. of Apolar-Apolar contacts: 26.0
+[+] No. of hydrophiLic-hydrophiLic contacts: 14.0
+[+] No. of hydrophoBic-hydrophiLic contacts: 19.0
+[+] No. of hydrophoBic-hydrophoBic contacts: 18.0
+[+] Percentage of Polar NIS residues: 37.32
+[+] Percentage of Apolar NIS residues: 37.32
+[+] Percentage of Charged NIS residues: 25.36
+[++] predicted binding affinity (kcal.mol-1):     -8.6
+[++] predicted dissociation constant (M) at 37.0˚C:  8.4e-07

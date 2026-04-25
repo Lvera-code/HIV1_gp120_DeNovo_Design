@@ -1,0 +1,25 @@
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.jupyter/
+
+# PyMOL & Computational Chemistry Temp Files
+*.pml.backup
+*.log.backup
+
+# Heavy files 
+*.zip
+*.tar.gz

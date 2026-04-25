@@ -1,0 +1,3 @@
+--- FINAL VALIDATION PARAMETERS ---
+Number of sequences to validate: 10
+Relaxation with AMBER: True (Trajectory Mode Enabled)

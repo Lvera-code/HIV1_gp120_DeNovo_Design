@@ -1,0 +1,2 @@
+*.dx filter=lfs diff=lfs merge=lfs -text
+*Trayectoria.pdb filter=lfs diff=lfs merge=lfs -text

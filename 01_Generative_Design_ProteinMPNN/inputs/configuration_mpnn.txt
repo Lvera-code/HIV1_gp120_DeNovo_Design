@@ -1,0 +1,6 @@
+--- PROTEINMPNN REDESIGN PARAMETERS ---
+Input file (backbone): binder.pdb
+Number of sequences generated: 100
+Omitted amino acids: C
+Fixed chains (Target): A
+Chains to redesign (Peptide): B
