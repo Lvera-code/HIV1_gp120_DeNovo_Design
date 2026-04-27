@@ -12,6 +12,9 @@ Unlike standard predictive workflows, this project emphasizes **rigorous thermod
 4. **Affinity Validation (PRODIGY):** Calculation of interfacial contacts, dissociation constants (Kd), and Gibbs free energy.
 5. **Electrostatic Mapping (APBS):** Solving the Poisson-Boltzmann equation to audit the physical coupling and surface potentials.
 
+## Methodology & Transparency Note
+The core generative and predictive algorithms in this workflow were executed utilizing a customized Jupyter/Colab pipeline provided by Universidad Europea de Madrid. Operating within this orchestrated environment allowed for a strict focus on structural interpretation, thermodynamic auditing (AMBER), and electrostatic mapping (APBS) of the outputs, mirroring modern DeSci (Decentralized Science) and cloud-lab workflows where researchers design and audit experiments rather than managing boilerplate code.
+
 ## The "AlphaFold Blind Spot"
 A core finding of this project is documented in the `03_Thermodynamic_Audit_AMBER/` directory. 
 For our Champion Binder (Peptide 7), AlphaFold - Multimer predicted a highly confident structure (pLDDT: 0.93). However, thermodynamic analysis of the raw PDB revealed a **catastrophic steric clash with a potential energy of +686,750 kJ/mol**. 
